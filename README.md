@@ -10,7 +10,7 @@ Identifies stations closely connected to others in terms of distance.
 ## Eigenvector Centrality: 
 Measures a station's influence based on its connectivity to other key stations.
 
-In addition to these conventional measures, we introduced novel parameters:
+## In addition to these conventional measures, we introduced novel parameters:
 
 1. Metro Topological Efficiency (MTE): Assesses the efficiency of the metro network in terms of information flow.
 
