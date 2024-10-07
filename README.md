@@ -1,7 +1,7 @@
 # Metro Rail Network Analysis using Social Network Analysis Techniques
 This project aims to analyze the metro rail systems of four major cities—Kolkata, Delhi, Chennai, and Hyderabad—through a social network analysis perspective. The analysis evaluates metro networks using centrality measures such as:
 
-Degree Centrality: Identifies the most connected stations.
+## Degree Centrality: Identifies the most connected stations.
 Betweenness Centrality: Highlights critical stations frequently traversed by passengers.
 Closeness Centrality: Identifies stations closely connected to others in terms of distance.
 Eigenvector Centrality: Measures a station's influence based on its connectivity to other key stations.
