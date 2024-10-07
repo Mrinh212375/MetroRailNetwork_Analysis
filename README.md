@@ -12,11 +12,11 @@ Measures a station's influence based on its connectivity to other key stations.
 
 In addition to these conventional measures, we introduced novel parameters:
 
-Metro Topological Efficiency (MTE): Assesses the efficiency of the metro network in terms of information flow.
+1. Metro Topological Efficiency (MTE): Assesses the efficiency of the metro network in terms of information flow.
 
-Node Occupying Probability (NOP): Quantifies a station's importance based on the number of routes passing through it, offering a realistic assessment of centrality.
+2. Node Occupying Probability (NOP): Quantifies a station's importance based on the number of routes passing through it, offering a realistic assessment of centrality.
 
-Cost Adjustment Ratio (CA): Evaluates the robustness of the metro networks under random node failures.
+3. Cost Adjustment Ratio (CA): Evaluates the robustness of the metro networks under random node failures.
 
 Data Collection and Processing:
 The dataset, consisting of metro line information, was collected via web scraping from the respective official metro websites and Wikipedia. The data was processed to create edge lists and convert station names into IDs for the application of the analysis.
